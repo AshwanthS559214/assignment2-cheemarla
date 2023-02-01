@@ -8,9 +8,11 @@ Like some of the other personality typing systems out there, the Enneagram syste
 My Favorite Family Vacation Spot As soon as I got of the I was waiting for this day for the past several months. It was the first time I would go with my father and brothers on their “Boys Only Vacation”.
 
 | **Country** | **Recomendation for visit** | **Number of Days**|
+|-------------|-----------------------------|-------------------|
 |India        | Vaccation                   | 20                |
 |Somalia      | Family Function             |12                 |
 |Uganda       | Holiday                     | 20                |
 |Euthopia     | For Peace                   | 08                |
+
 
 
