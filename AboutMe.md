@@ -14,5 +14,8 @@ My Favorite Family Vacation Spot As soon as I got of the I was waiting for this 
 |Uganda       | Holiday                     | 20                |
 |Euthopia     | For Peace                   | 08                |
 
+**Pithy Quotes**
 
-
+> "My mom died when we couldn’t remember her blood type. As she died, she kept telling us to “be positive,” but it’s hard without her." -_Abhi_-
+>
+>"Today, I asked my phone “Siri, why am I still single?” and it activated the front camera." -_Aswanth_
